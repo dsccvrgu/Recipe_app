@@ -1,4 +1,4 @@
-# meal_app
+# recipe_app
 
 ![Food_app image 1](https://user-images.githubusercontent.com/73067444/126978415-3dbe2f5c-1898-49cb-861e-0f7fdca4057b.png)
 ![Food_app image 2](https://user-images.githubusercontent.com/73067444/126978432-b52aa91c-13ed-4a7c-b131-2e2d9cde4fb5.png)
